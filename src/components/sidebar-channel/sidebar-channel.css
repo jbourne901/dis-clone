@@ -1,0 +1,22 @@
+.sidebar-channel {
+}
+
+
+.sidebar-channel-title {
+  color: gray;
+  background-color: #2f3135;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+.sidebar-channel-title:hover {
+  color: white;
+  background-color: #40464b;
+}
+
+.sidebar-channel-hash {
+  font-size: 30px;
+  padding: 8px;
+}
